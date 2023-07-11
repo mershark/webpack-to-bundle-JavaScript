@@ -29,9 +29,9 @@
 - [📝 License](#license)
 
 
-# 📖 Awesome books (Pair Programming) <a name="about-project"></a>
+# 📖 Set Up Project With Webpack <a name="about-project"></a>
 
-In this project, We built a basic website that allows users to add/remove books from a list. We achieved that by using JavaScript objects and arrays. We also dynamically modified the DOM and added some basic events.
+In this project I build a simple yet powerful webpack boilerplate, which can be used as a starting point in a project. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,10 +46,8 @@ In this project, We built a basic website that allows users to add/remove books 
 
 ### Key Features <a name="key-features"></a>
 
-- When a user clicks the "Add" button: A new book is added to the collection.
-- The new book is displayed in the page.
-- When a user clicks the "Remove" button: The correct book is removed from the collection.
-- After that the correct book dissapears from the page.
+- Has HTML template to use.
+- You can view live edit in your localhost while editing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +65,7 @@ Any code editors
 
 Clone this repository to your desired folder by.
 - cd my-folder
-- git clone [https://github.com/noelfoka/Awesome-books.git]
+- git clone [https://github.com/mershark/webpack-to-bundle-JavaScript]
 - cd my-project
 
 
@@ -100,19 +98,11 @@ You can deploy this project by transferring the files in your local repository o
 - GitHub: [@githubhandle](https://github.com/mershark)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mershark/)
 
-👤 **Noel Foka**
-
-- GitHub: [@noelfoka](https://github.com/noelfoka)
-- Twitter: [@noelnomgne](https://twitter.com/noelnomgne)
-- LinkedIn: [noel-foka](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **A Navigation bar**
-- [ ] **Books list section**
-- [ ] **Add book form section**
-- [ ] **Contact info section**
+- [ ] **More templates**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
